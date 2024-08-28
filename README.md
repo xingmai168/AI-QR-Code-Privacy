@@ -79,7 +79,6 @@ If you have any questions about these rights or wish to exercise any of them, pl
 Our services may contain hyperlinks to other websites. By accessing a linked external site, you acknowledge it is beyond our operational purview. Hence, we encourage you to review the privacy policies of these specific sites. We are not responsible for and do not assume liability for third-party content, privacy regulations, or practices.
 
 [Google Play Services](https://policies.google.com/privacy): https://policies.google.com/privacy  
-[Admob](https://support.google.com/admob/answer/6128543?hl=en): https://support.google.com/admob/answer/6128543?hl=en
 
 ## 6. Age Requirement
 
