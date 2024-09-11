@@ -8,10 +8,13 @@ Updated and Effective as of November 23, 2023
 2. Data Collection and Usage
 3. Data Security and Storage
 4. User Rights
-5. External Links
-6. Age Requirement
-7. Updates to the Privacy Policy
-8. Contact Information
+5. Google Adsense
+6. Scope of data processing
+7. Firebase Remote Config
+8. External Links
+9. Age Requirement
+10. Updates to the Privacy Policy
+11. Contact Information
 
 ## 1. General
 
@@ -74,20 +77,30 @@ We may offer additional rights to residents of certain regions based on applicab
 
 If you have any questions about these rights or wish to exercise any of them, please contact us by email.
 
-## 5. External Links
+## 5. Google Adsense
+We use Google Adsense and show personalized ads within our barcode scanner apps to finance our development where apps are provided free of charge. Google Adsense stores user data including IP address and other personal data which can be used to identify the user's browser for the purpose of billing advertisers for ad clicks and detecting fraudulent clicks. The IP address will be anonymized after 9 months. For more information about Google Adsense and how to opt-out of personalized ads see https://policies.google.com/technologies/partner-sites.
+
+## 6. Scope of data processing
+We collect and use personal information of our users to the extent necessary to provide high-quality applications and to perform our services, including the display of product and price information related to scanned barcodes.
+In case where we make our services available free of charge, we finance our services through personalized advertising.
+
+## 7. Firebase Remote Config
+We use individual app configurations for our users with the aid of Firebase Remote Config, for example to show country-specific website links. Firebase Remote Config uses Instance IDs to select configuration values to return to end-user devices. These Instance IDs will be stored up to 180 days.
+
+## 8. External Links
 
 Our services may contain hyperlinks to other websites. By accessing a linked external site, you acknowledge it is beyond our operational purview. Hence, we encourage you to review the privacy policies of these specific sites. We are not responsible for and do not assume liability for third-party content, privacy regulations, or practices.
 
 [Google Play Services](https://policies.google.com/privacy): https://policies.google.com/privacy  
 
-## 6. Age Requirement
+## 9. Age Requirement
 
 These services are intended for individuals aged 14 and above. We do not intend to collect information from minors. If any minor data submission is discovered, deletion will be executed immediately. Parents/guardians, if your minor child has provided personal information, please contact us.
 
-## 7. Updates to the Privacy Policy
+## 10. Updates to the Privacy Policy
 
 We may change this privacy policy from time to time. If so, the date on our Sites will be updated and will indicate that the policy has changed. For all users, changes will take effect upon posting. We encourage you to periodically review the privacy policy for the latest information on our privacy practices without prior notification.
 
-## 8. Contact Information
+## 11. Contact Information
 
 We welcome your comments or questions regarding this Privacy Policy. Please contact us by email at [wiwinaripin2@gmail.com](mailto:wiwinaripin2@gmail.com).
