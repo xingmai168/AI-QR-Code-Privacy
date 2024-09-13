@@ -53,6 +53,22 @@ In the situations described above, we ensure your information is used solely to 
 
 To comply with legal requirements, such as responding to court orders or government requests, we may disclose your information. If our app is acquired or merged with another company, your information will be transferred as part of the transaction with your consent.
 
+Identifiers:
+
+Your User ID and Device ID are included. This links to your identity and is used for crash & ads analysis.
+
+Infomation we use but not collect
+
+Regarding the Personal Data, and notwithstanding anything to the contrary in other Sections of this Privacy Policy, we do not:
+
+• collect, store, share, or transfer the data off the User devices;
+
+• use the data to identify any specific individual user;
+
+• use the data for authentication, advertising, or marketing purposes, or to otherwise target a user in a similar manner;
+
+• use the data to build a user profile, or otherwise attempt, facilitate, or encourage third parties to do any of the foregoing.
+
 ## 3. Data Security and Storage
 
 Your data privacy is paramount to us. We adhere to generally accepted protocols to protect data provided to us, both during transmission and once received. However, no method of electronic transmission or storage is 100% secure. Therefore, you acknowledge and accept that we cannot guarantee the protection of your personal information transmitted to our applications or customer service functions, and any such transmission is at your own risk. We will implement rigorous procedures and security measures to prevent unauthorized access.
