@@ -109,6 +109,8 @@ Our services may contain hyperlinks to other websites. By accessing a linked ext
 
 [Google Play Services](https://policies.google.com/privacy): https://policies.google.com/privacy  
 [FaceBook](https://www.facebook.com/privacy/):https://www.facebook.com/privacy/
+[AdMob](https://policies.google.com/privacy):https://policies.google.com/privacy
+
 ## 9. Age Requirement
 
 These services are intended for individuals aged 14 and above. We do not intend to collect information from minors. If any minor data submission is discovered, deletion will be executed immediately. Parents/guardians, if your minor child has provided personal information, please contact us.
